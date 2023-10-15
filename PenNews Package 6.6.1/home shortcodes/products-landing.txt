@@ -1,0 +1,1 @@
+[vc_row][vc_column][penci_custom_slider slider_id="6"][penci_custom_slider slider_id="13"][penci_custom_slider slider_id="14"][penci_custom_slider slider_id="15"][/vc_column][/vc_row]
